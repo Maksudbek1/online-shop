@@ -1,4 +1,4 @@
 # online_magazin
 
-A new Flutter project.
+Online magazin 1.0.0 version
 
